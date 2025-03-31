@@ -1,3 +1,2 @@
 console.log("HI");
-console.log("Now or Never");
-
+console.log("Now or Never);
